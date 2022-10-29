@@ -1,0 +1,26 @@
+{
+  "name": "credit-card",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is a copy of the layout of a credit card. Author: https://github.com/WebDevSimplified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspogorelova/credit-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspogorelova/credit-card/issues"
+  },
+  "homepage": "https://github.com/aspogorelova/credit-card#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^2.7.1"
+  }
+}
